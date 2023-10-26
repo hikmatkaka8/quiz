@@ -1,0 +1,33 @@
+.navi {
+    margin-left: 100px;
+    margin-right: 70px;
+    margin-bottom: 140px;
+}
+
+.bagan {
+    width: 500px;
+    height: 75px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.navi1 {
+    margin-top: 20px;
+}
+
+.text {
+    font-size: 50px;
+    color: black;
+}
+
+.text-1 {
+    font-size: 50px;
+}
+
+.bagan-2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
